@@ -40,7 +40,7 @@ function setup() {
 }
  
 function draw() {
-  background("black");
+  background("maroon");
   textSize(35)
   text("Score : "+score,20,40);
   fill("white");
